@@ -1,0 +1,16 @@
+src/
+  controllers/
+    authController.ts
+    bookController.ts
+  middlewares/
+    authMiddleware.ts
+  routes/
+    authRoutes.ts
+    bookRoutes.ts
+  services/
+    authService.ts
+    bookService.ts
+  utils/
+    csvHandler.ts
+  index.ts
+  prisma.ts

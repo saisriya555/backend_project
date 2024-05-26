@@ -1,0 +1,6 @@
+Running the app:
+DATABASE_URL=postgresql://user:password@localhost:5432/bookstore
+SECRET_KEY=your-secret-key
+
+Then, run the application:
+ts-node src/index.ts
