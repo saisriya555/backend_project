@@ -1,1 +1,7 @@
-# backend_project
+SETUP AND CONFIGURATION:
+mkdir bookstore
+cd bookstore
+npm init -y
+npm install express pg prisma @prisma/client bcryptjs jsonwebtoken multer csv-parser
+npm install --save-dev typescript ts-node @types/express @types/node @types/jsonwebtoken @types/bcryptjs
+npx prisma init
